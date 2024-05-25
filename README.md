@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Ambil Gambar
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<img width="348" alt="Screenshot 2024-05-25 at 21 42 40" src="https://github.com/fanfantasi/ambilgambar/assets/9621924/e6e7494e-676e-4888-8a10-b2a7669f6b66">
+
 
 ## Setup
 
