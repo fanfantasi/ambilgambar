@@ -4,7 +4,7 @@ useSeoMeta({
   ogTitle: 'Kontak PT. Ambil Gambar - Jasa Mobile dan Web Development',
   description: 'PT. Ambil Gambar Merupakan Perusahaan yang Memberikan Solusi sesuai dengan kebutuhan bisnis anda. #MakeITeasy',
   ogDescription: 'PT. Ambil Gambar Merupakan Perusahaan yang Memberikan Solusi sesuai dengan kebutuhan bisnis anda. #MakeITeasy',
-  ogImage: `/_nuxt/assets/images/ogImage.png`,
+  ogImage: `/ogImage-new.jpeg`,
   ogImageWidth:'400',
   ogType:'Website',
   ogLocale:'in_ID',

@@ -9,10 +9,10 @@ dateNow.value = new Date().getFullYear()
 
 useSeoMeta({
     title: 'Home',
-    ogTitle: 'Jasa Mobile dan Web Development',
+    ogTitle: 'Jasa Mobile App Dev, Web Dev, Video Editor dan Sosial Media Manajemen',
     description: 'Memberikan Solusi sesuai dengan kebutuhan bisnis anda. #MakeITeasy',
     ogDescription: 'Memberikan Solusi sesuai dengan kebutuhan bisnis anda. #MakeITeasy',
-    ogImage: `/_nuxt/assets/images/ogImage.png`,
+    ogImage: `/ogImage-new.jpeg`,
     ogType: 'Website',
     ogLocale: 'in_ID',
     twitterCard: 'summary_large_image',
